@@ -1,0 +1,3 @@
+Llama (Large Language Model Meta AI) is a family of autoregressive large language models released by Meta AI starting in February 2023.[2][3] The latest version is Llama 3 released in April 2024.[4]
+
+Model weights for the first version of Llama were released to the research community under a non-commercial license.[5][3] Subsequent versions of Llama were made accessible outside academia and released under licenses that permitted some commercial use.[6][7] Llama models are trained at different parameter sizes, typically ranging between 7B and 70B.[4] Originally, Llama was only available as a foundation model.[8] Starting with Llama 2, Meta AI started releasing instruction fine-tuned versions alongside found
