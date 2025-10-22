@@ -3,7 +3,7 @@ tiktoken
 langchainhub 
 chromadb 
 langchain 
-langgraph  
+langgraph==0.6.10
 tavily-python
 python-dotenv
 google-generativeai
