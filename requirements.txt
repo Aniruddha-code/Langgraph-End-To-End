@@ -19,3 +19,4 @@ faiss-cpu
 sentence_transformers
 dotenv
 youtube-search
+transformers
